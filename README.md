@@ -1,5 +1,5 @@
 # the-SAGH-for-solving-2DRP
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Skyline heuristic algorithm</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">A hybrid algorithm to solve the 2DRP</h1>
 
 
 ## Introduction to the project
