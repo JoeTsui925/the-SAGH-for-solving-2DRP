@@ -86,7 +86,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 ## Project demo
 
-![](IMG\Snipaste_2023-01-09_09-48-35.png)
+![](project-implementation\readme\IMG\Snipaste_2023-01-09_09-48-35.png)
 
 
 
