@@ -86,11 +86,11 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 ## Project demo
 
-![](IMG\Snipaste_2023-01-09_09-48-35.png)
+![](project-implementation\readme\IMG\Snipaste_2023-01-09_09-48-35.png)
 
 
 
-![image-20221203204631184](IMG\image-20221203204631184.png)
+![image-20221203204631184](project-implementation\readme\IMG\image-20221203204631184.png)
 
 
 
@@ -100,15 +100,15 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **step 1**
 
-![](IMG\image-20221204174626803.png)
+![](project-implementation\readme\IMG\image-20221204174626803.png)
 
-![image-20221204174726570](IMG\image-20221204174726570.png)
+![image-20221204174726570](project-implementation\readme\IMG\image-20221204174726570.png)
 
 - **Step 2**
 
-![image-20221204174820080](IMG\image-20221204174820080.png)
+![image-20221204174820080](project-implementation\readme\IMG\image-20221204174820080.png)
 
-![image-20221204175048358](IMG\image-20221204175048358.png)
+![image-20221204175048358](project-implementation\readme\IMG\image-20221204175048358.png)
 
-![image-20221204175122777](IMG\image-20221204175122777.png)
+![image-20221204175122777](project-implementation\readme\IMG\image-20221204175122777.png)
 
