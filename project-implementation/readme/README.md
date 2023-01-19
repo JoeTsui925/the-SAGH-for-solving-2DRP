@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Skyline heuristic algorithm</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">A hybrid algorithms to solve the 2DRP</h1>
 ## Introduction to the project
 
 This project uses four algorithms: the Skyline Heuristic, the Improved Skyline Heuristic, the Adaptive Genetic Algorithm and the Skyline Adaptive Genetic Hybrid Algorithm to solve the two-dimensional rectangular packing problem. The results of the test on the selected datasets show the time solver and space utilization of the four algorithms.
