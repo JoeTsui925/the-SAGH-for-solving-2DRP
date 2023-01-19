@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">A hybrid algorithms to solve the 2DRP</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Skyline heuristic algorithm</h1>
 ## Introduction to the project
 
 This project uses four algorithms: the Skyline Heuristic, the Improved Skyline Heuristic, the Adaptive Genetic Algorithm and the Skyline Adaptive Genetic Hybrid Algorithm to solve the two-dimensional rectangular packing problem. The results of the test on the selected datasets show the time solver and space utilization of the four algorithms.
@@ -86,11 +86,11 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 ## Project demo
 
-![](\project-implementation\readme\IMG\Snipaste_2023-01-09_09-48-35.png)
+![](project-implementation\readme\IMG\Snipaste_2023-01-09_09-48-35.png)
 
 
 
-![image-20221203204631184](\project-implementation\readme\IMG\image-20221203204631184.png)
+![image-20221203204631184](project-implementation\readme\IMG\image-20221203204631184.png)
 
 
 
@@ -100,15 +100,15 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **step 1**
 
-![](\project-implementation\readme\IMG\image-20221204174626803.png)
+![](project-implementation\readme\IMG\image-20221204174626803.png)
 
-![image-20221204174726570](\project-implementation\readme\IMG\image-20221204174726570.png)
+![image-20221204174726570](project-implementation\readme\IMG\image-20221204174726570.png)
 
 - **Step 2**
 
-![image-20221204174820080](\project-implementation\readme\IMG\image-20221204174820080.png)
+![image-20221204174820080](project-implementation\readme\IMG\image-20221204174820080.png)
 
-![image-20221204175048358](\project-implementation\readme\IMG\image-20221204175048358.png)
+![image-20221204175048358](project-implementation\readme\IMG\image-20221204175048358.png)
 
-![image-20221204175122777](\project-implementation\readme\IMG\image-20221204175122777.png)
+![image-20221204175122777](project-implementation\readme\IMG\image-20221204175122777.png)
 
