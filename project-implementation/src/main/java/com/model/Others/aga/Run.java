@@ -26,7 +26,7 @@ public class Run extends javafx.application.Application {
     public void start(Stage primaryStage) throws Exception {
 
         //Data address
-        String path ="src/main/java/com/data/c/c21.txt";
+        String path ="src/main/java/com/data/c/c51.txt";
         // Get the instance object according to the txt file
         Instance instance = new ReadDataUtil().getInstance(path);
         //Record the algorithm start time

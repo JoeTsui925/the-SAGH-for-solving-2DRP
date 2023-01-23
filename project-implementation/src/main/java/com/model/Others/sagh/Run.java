@@ -26,7 +26,7 @@ public class Run extends javafx.application.Application {
     public void start(Stage primaryStage) throws Exception {
 
         //Data address
-        String path = "src/main/java/com/data/c/c21.txt";
+        String path = "src/main/java/com/data/N/n11.txt";
         //Get the instance object according to the txt file
         Instance instance = new ReadDataUtil().getInstance(path);
         //Record the algorithm start time
@@ -51,7 +51,7 @@ public class Run extends javafx.application.Application {
             strings1[i] = "{x:" + placeItem.getX() + ",y:" + placeItem.getY() + ",l:" + placeItem.getH() + ",w:" + placeItem.getW() + "}";
             strings2[i] = placeItem.isRotate() ? "1" : "0";
         }
-//        System.out.println("data:" + Arrays.toString(strings1) + ",");
+//      System.out.println("data:" + Arrays.toString(strings1) + ",");
 //        System.out.println("isRotate:" + Arrays.toString(strings2) + ",");
 
         // --------------------------------- Paint related code---------------------------------------------
@@ -81,7 +81,7 @@ public class Run extends javafx.application.Application {
         //
         pane.getChildren().add(nextButton);
         primaryStage.setTitle("2D rectangular packing problem visualization");
-        primaryStage.setScene(new Scene(pane, 1000, 1000, Color.AQUA));
+        primaryStage.setScene(new Scene(pane, 400, 400, Color.AQUA));
         primaryStage.show();
     }
 

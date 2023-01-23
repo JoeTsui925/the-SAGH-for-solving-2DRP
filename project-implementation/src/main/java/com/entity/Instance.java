@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Description：
- * Instance object: inside is information about the entire problem (including the bin information, rectangular item collections, etc.)
+ * Instance object: instance is information about the entire problem (including the bin information, rectangular item collections, etc.)
  */
 public class Instance {
 

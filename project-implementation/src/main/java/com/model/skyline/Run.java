@@ -30,14 +30,14 @@ public class Run extends javafx.application.Application {
     public void start(Stage primaryStage) throws Exception {
 
        // Data address
-        String path = "src/main/java/com/data/c/c21.txt";
+        String path = "src/main/java/com/data/c/c51.txt";
         //Get the instance object according to the txt file
         Instance instance = new ReadDataUtil().getInstance(path);
        // Record the algorithm start time
         long startTime = System.currentTimeMillis();
 
-        //1：improve skyline
-        // Instantiate the skyline object
+//        //1：improved skyline
+//        // Instantiate the skyline object
 //        Item[] items = instance.getItemList().toArray(new Item[0]);
 //        // Sort in descending order by area
 //        Arrays.sort(items, (o1, o2) -> {
@@ -50,7 +50,7 @@ public class Run extends javafx.application.Application {
         //2：skyline
         //Instantiate the skyline object
         SkyLinePacking skyLinePacking = new SkyLinePacking(instance.isRotateEnable(), instance.getW(), instance.getH(), instance.getItemList().toArray(new Item[0]));
-//        //Call the skyline algorithm to solve
+//        //Call the skyline heuristic to solve
         Solution solution = skyLinePacking.packing();
 
 

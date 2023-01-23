@@ -21,7 +21,7 @@ public class SAGH {
     // An array of upper and lower bounds of gene crossover probabilities
     private double[] crossoverRateBoundArr;
     // Parameters
-    private final double A = 9.903438;
+    private final double A = 9.9;
 
 
     //The total fitness value of the population

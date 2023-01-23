@@ -1,7 +1,7 @@
 package com.entity;
 
 /**
- * Placed rectangular item: includes coordinate information of the placed rectangular item, whether it rotates, and width and height information
+ * Placed rectangular item: includes coordinate information of the placed rectangular items, whether it rotates, and width and height information
  */
 public class PlaceItem {
 

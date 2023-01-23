@@ -1,7 +1,7 @@
 package com.entity;
 
 /**
- * 天际线对象：includes the coordinates of the left endpoint of the skyline and the length of the skyline line segment
+ * Skyline：includes the coordinates of the left endpoint of the skyline and the length of the skyline line segment
  */
 public class SkyLine implements Comparable<SkyLine> {
 
