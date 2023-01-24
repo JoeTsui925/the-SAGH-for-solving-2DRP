@@ -106,7 +106,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **Step 2**
 
-![image-20221204174820080](project-implementation\readme\IMG\image-20221204174820080.png)
+![project-implementation/readme/IMG/Project Structure.png]([[project-implementation\readme\IMG\image-20221204174820080.png](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/7033e4eb9ed96a608bd8f1dbfdec60407d9d61f8/project-implementation/readme/IMG/Project%20Structure.png)](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/7033e4eb9ed96a608bd8f1dbfdec60407d9d61f8/project-implementation/readme/IMG/Project%20Structure.png))
 
 ![image-20221204175048358](project-implementation\readme\IMG\image-20221204175048358.png)
 
