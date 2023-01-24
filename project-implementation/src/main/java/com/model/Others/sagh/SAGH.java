@@ -47,7 +47,7 @@ public class SAGH {
     private double W;
     //The height of the bin
     private double H;
-    //A rectangle items array
+    //A rectangular items array
     Item[] items;
     //Is it rotatable or not
     private boolean isRotateEnable;

@@ -30,7 +30,7 @@ public class Run extends javafx.application.Application {
     public void start(Stage primaryStage) throws Exception {
 
        // Data address
-        String path = "src/main/java/com/data/c/c51.txt";
+        String path = "src/main/java/com/data/c/c62.txt";
         //Get the instance object according to the txt file
         Instance instance = new ReadDataUtil().getInstance(path);
        // Record the algorithm start time
@@ -56,14 +56,14 @@ public class Run extends javafx.application.Application {
 
         //Output relevant information
         System.out.println("solved time:" + (System.currentTimeMillis() - startTime) / 1000.0 + "s");
-        System.out.println("Rectangle items co-placed：" + solution.getPlaceItemList().size() + "pcs");
+        System.out.println("Rectangular items co-placed：" + solution.getPlaceItemList().size() + "pcs");
         System.out.println("The optimal space utilization is :" + solution.getRate());
         // Output paint data
         String[] strings1 = new String[solution.getPlaceItemList().size()];
         String[] strings2 = new String[solution.getPlaceItemList().size()];
         for (int i = 0; i < solution.getPlaceItemList().size(); i++) {
             PlaceItem placeItem = solution.getPlaceItemList().get(i);
-            strings1[i] = "{x:" + placeItem.getX() + ",y:" + placeItem.getY() + ",l:" + placeItem.getH() + ",w:" + placeItem.getW() + "}";
+            strings1[i] = "{x:" + placeItem.getX() + ",y:" + placeItem.getY() + ",h:" + placeItem.getH() + ",w:" + placeItem.getW() + "}";
             strings2[i] = placeItem.isRotate() ? "1" : "0";
         }
 //        System.out.println("data:" + Arrays.toString(strings1) + ",");
@@ -88,7 +88,7 @@ public class Run extends javafx.application.Application {
                     counter++;
                 } catch (Exception e) {
                     Alert alert = new Alert(Alert.AlertType.WARNING);
-                    alert.setContentText("There are no more rectangle items to place！");
+                    alert.setContentText("There are no more rectangular items to place！");
                     alert.showAndWait();
                 }
             }
@@ -97,7 +97,7 @@ public class Run extends javafx.application.Application {
         //
         pane.getChildren().add(nextButton);
         primaryStage.setTitle("2D rectangular packing problem visualization");
-        primaryStage.setScene(new Scene(pane, 1000, 1000, Color.BLUE));
+        primaryStage.setScene(new Scene(pane, 400, 400, Color.BLUE));
         primaryStage.show();
     }
 
