@@ -90,7 +90,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 
 
-[visualization example](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/b45546a994a07e74e3d4d9503e12933e2f48854c/project-implementation/readme/IMG/visualization%20example.png)
+[Visualization example](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/b45546a994a07e74e3d4d9503e12933e2f48854c/project-implementation/readme/IMG/visualization%20example.png)
 
 
 
@@ -106,7 +106,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **Step 2**
 
-[Project Structure](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Project%20Structure.png))
+[Project Structure](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Project%20Structure.png)
 
 [Project Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Project%20Setting.png)
 
