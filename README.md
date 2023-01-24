@@ -90,7 +90,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 
 
-![image-20221203204631184](IMG\image-20221203204631184.png)
+[visualization example](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/b45546a994a07e74e3d4d9503e12933e2f48854c/project-implementation/readme/IMG/visualization%20example.png)
 
 
 
