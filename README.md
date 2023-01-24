@@ -102,7 +102,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 [Open Setting (preferences for mac)](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Open%20Setting.png)
 
-[JavaCompiler Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/be793c8b8502024b160129b1b6b467ae362274d4/project-implementation/readme/IMG/JavaComplier%20Setting.png)
+[JavaCompiler Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/010725656615bb5729277d0971e49e18a0ad34e6/project-implementation/readme/IMG/JavaCompiler%20Setting.png)
 
 - **Step 2**
 
