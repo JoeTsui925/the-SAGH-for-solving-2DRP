@@ -100,7 +100,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **step 1**
 
-![](IMG\image-20221204174626803.png)
+[JavaComplier Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/be793c8b8502024b160129b1b6b467ae362274d4/project-implementation/readme/IMG/JavaComplier%20Setting.png)
 
 ![image-20221204174726570](IMG\image-20221204174726570.png)
 
