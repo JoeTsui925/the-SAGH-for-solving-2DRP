@@ -86,7 +86,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 ## Project demo
 
-![][project-implementation\readme\IMG\Snipaste_2023-01-09_09-48-35.png](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/d4e8ec931a6a691c6c5249fe4b4b0900f09bb8c8/project-implementation/readme/IMG/Output%20screenshot.jpg)
+[Output screenshot](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/d4e8ec931a6a691c6c5249fe4b4b0900f09bb8c8/project-implementation/readme/IMG/Output%20screenshot.jpg)](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/d4e8ec931a6a691c6c5249fe4b4b0900f09bb8c8/project-implementation/readme/IMG/Output%20screenshot.jpg)
 
 
 
