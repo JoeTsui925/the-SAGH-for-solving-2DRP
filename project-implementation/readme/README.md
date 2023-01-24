@@ -102,7 +102,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 ![](project-implementation\readme\IMG\image-20221204174626803.png)
 
-![image-20221204174726570](project-implementation\readme\IMG\image-20221204174726570.png)
+![JavaComplier Setting.png](project-implementation\readme\IMG\JavaComplier Setting.png)
 
 - **Step 2**
 
