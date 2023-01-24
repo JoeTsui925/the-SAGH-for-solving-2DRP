@@ -100,15 +100,15 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
 
 - **step 1**
 
-[JavaComplier Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/be793c8b8502024b160129b1b6b467ae362274d4/project-implementation/readme/IMG/JavaComplier%20Setting.png)
+[Open Setting (preferences for mac)](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Open%20Setting.png)
 
-![image-20221204174726570](IMG\image-20221204174726570.png)
+[JavaComplier Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/be793c8b8502024b160129b1b6b467ae362274d4/project-implementation/readme/IMG/JavaComplier%20Setting.png)
 
 - **Step 2**
 
-![image-20221204174820080](IMG\image-20221204174820080.png)
+[Project Structure](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Project%20Structure.png))
 
-![image-20221204175048358](IMG\image-20221204175048358.png)
+[Project Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Project%20Setting.png)
 
-![image-20221204175122777](IMG\image-20221204175122777.png)
+[Modules Setting](https://github.com/JoeTsui925/the-SAGH-for-solving-2DRP/blob/2991b3040e50c8ea3fb0fcb3315412fc4484d489/project-implementation/readme/IMG/Modules%20Setting.png)
 
