@@ -51,7 +51,7 @@ public class Run extends javafx.application.Application {
             strings1[i] = "{x:" + placeItem.getX() + ",y:" + placeItem.getY() + ",h:" + placeItem.getH() + ",w:" + placeItem.getW() + "}";
             strings2[i] = placeItem.isRotate() ? "1" : "0";
         }
-        System.out.println("Item array:" + Arrays.toString(strings1) + ",");
+        System.out.println("Item arrays:" + Arrays.toString(strings1) + ",");
 //        System.out.println("isRotate:" + Arrays.toString(strings2) + ",");
 
         // --------------------------------- Paint related code---------------------------------------------
