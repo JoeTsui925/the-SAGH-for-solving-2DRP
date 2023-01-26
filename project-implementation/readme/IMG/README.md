@@ -74,7 +74,7 @@ Note: You can modify the test data by modifying the value of the randomdata .txt
   - AGA
     - The Adaptive Genetic Algorithm to solve two-dimensional rectangular packing problems
 - Skyline
-  - Skyline Heuristic and the improved Skyline Heuristic to solve two-dimensional rectangular packing problems
+  - Skyline Heuristic and the improved Skyline Heuristic to solve two-dimensional rectangular packing problems (Uncomment the improved skyline heuristic in skyline/Run.class and comment out the original skyline heuristic call below to get the improved skyline heuristic)
 
 ### util
 
